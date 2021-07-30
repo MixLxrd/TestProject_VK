@@ -1,4 +1,7 @@
 # TestProjectVK
-Template of app - VK
-![Simulator Screen Shot - iPhone 8 - 2021-07-30 at 16 24 28](https://user-images.githubusercont![Simulator Screen Shot - iPhone 8 - 2021-07-30 at 16 24 39](https://user-images.githubusercontent.com/40906632/127659623-56049efb-cf27-42e2-8f58-f36b41d676d6.png)
-ent.com/40906632/127659574-0be6a3e1-ba30-4799-8dba-c6ce545a615b.png)
+Template app - VK
+
+![1](https://user-images.githubusercontent.com/40906632/127661135-7994cb67-a1e6-43ef-8057-c23f011fb682.png)
+![2](https://user-images.githubusercontent.com/40906632/127661287-4cb8132f-679e-4af9-a735-55a5c846d52b.png)
+
+
